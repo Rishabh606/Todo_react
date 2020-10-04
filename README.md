@@ -3,7 +3,8 @@ This is a simple Todo application to learn react following the Net ninja tutoria
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##Contributors
+## Contributors
+
 Rishabh Gupta
 
 ## Available Scripts
